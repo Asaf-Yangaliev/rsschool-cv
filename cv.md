@@ -1,33 +1,33 @@
 # Yangaliev Asaf Rustamovich
-![Изображение отсуствует](images/asafyangaliev.jpeg)
-## **Контакты для связи:**
-**Phone number**: +998 (90) 178-72-80 \
-**Email**: asafyang1995@gmail.com \
-**Telegram**: Asaf_Yangaliev
-## **Образование:**
->Филиал РГУ нефти и газа (НИУ) имени И.М.Губкина в г. Ташкенте
-## **Опыт работы:**
->**Период:** ноябрь 2018 - июль 2019 \
+![No Image](images/asafyangaliev.jpegg)
+## **Personal Data:**
+  * **Date of birth**: 11-08-1995
+  * **Place of birth**: Tashkent, Uzbekistan
+  * **Communication:**
+    *  **Phone number**: +998 (90) 178-72-80
+    * **Email address**: asafyang1995@gmail.com
+    * **Telegram**: Asaf_Yangaliev
+## **Education:**
+>The Branch of the Russian State University of Oil and Gas (National Research University) named after Ivan Mikhaylovich Gubkin in Tashkent \
+Bachelor
+## **Employment history:**
+>**Период:** November 2018 - Jule 2019 \
 >**Кампания:** Enter Engineering \
->**Должность:** Специалист по планированию и отчетности
+>**Должность:** Planning and reporting specialist
 
->**Период:** июль 2019 - сентябрь 2021 \
->**Место работы:** Учебный Центр Bunker Lab \
->**Должность:** Учитель математики
+>**Период:** Jule 2019 - September 2021 \
+>**Место работы:** Learning Center Bunker Lab \
+>**Должность:** Math Teacher
 
->**Период:** сентябрь 2019 - апрель 2022 \
+>**Период:** September 2021 - April 2022 \
 >**Кампания:** Fido Bizness \
 >**Должность:** Java Developer
 
->**Период:** май 2019 - н.в. \
+>**Период:** May 2022 - Current \
 >**Кампания:** Epam Systems \
 >**Должность:** Java Developer
 
-## **Достижения:**
->2016 - Победа на Губкинской олимпиаде по математике, 4 место в финале Республиканской олимпиады по математике \
->2017 - 2 место на Губкинской олимпиаде по математике
-
-## **Навыки:**
+## **Skills:**
 * Java Core
 * Spring
 * Spring Boot
@@ -42,7 +42,7 @@
   * English - B1
   * Spanish - A1
 ## Пример кода:
-> Метод, который стирает смайлики в строке (":-)", ":-(")\
+> Method, which erases emoticons in the string (":-)", ":-(")\
 ("ew:-)))dl:-(((dsff") -> "ewdldsff" \
 ("wqeqwe:-)):-((") -> "wqeqwe"
 ```Java
