@@ -1,6 +1,6 @@
 # Yangaliev Asaf Rustamovich
 ![No Image](images/asafyangaliev.jpegg)
-## **Personal Data:**
+## **Personal Information:**
   * **Date of birth**: 11-08-1995
   * **Place of birth**: Tashkent, Uzbekistan
   * **Communication:**
@@ -11,21 +11,21 @@
 >The Branch of the Russian State University of Oil and Gas (National Research University) named after Ivan Mikhaylovich Gubkin in Tashkent \
 Bachelor
 ## **Employment history:**
->**Период:** November 2018 - Jule 2019 \
->**Кампания:** Enter Engineering \
->**Должность:** Planning and reporting specialist
+>**Period:** November 2018 - Jule 2019 \
+>**Company:** Enter Engineering \
+>**Position:** Planning and reporting specialist
 
->**Период:** Jule 2019 - September 2021 \
->**Место работы:** Learning Center Bunker Lab \
->**Должность:** Math Teacher
+>**Period:** Jule 2019 - September 2021 \
+>**Company:** Learning Center Bunker Lab \
+>**Position:** Math Teacher
 
->**Период:** September 2021 - April 2022 \
->**Кампания:** Fido Bizness \
->**Должность:** Java Developer
+>**Period:** September 2021 - April 2022 \
+>**Company:** Fido Bizness \
+>**Position:** Java Developer
 
->**Период:** May 2022 - Current \
->**Кампания:** Epam Systems \
->**Должность:** Java Developer
+>**Period:** May 2022 - Current \
+>**Company:** Epam Systems \
+>**Position:** Java Developer
 
 ## **Skills:**
 * Java Core
@@ -38,11 +38,11 @@ Bachelor
 * HTML/CSS/JavaScript
 * Git
 * Languages:
-  * Russian - Native
+  * Russian - native
   * English - B1
   * Spanish - A1
-## Пример кода:
-> Method, which erases emoticons in the string (":-)", ":-(")\
+## Code Example:
+> Method, which erases emoticons from the string (":-)", ":-(")\
 ("ew:-)))dl:-(((dsff") -> "ewdldsff" \
 ("wqeqwe:-)):-((") -> "wqeqwe"
 ```Java
