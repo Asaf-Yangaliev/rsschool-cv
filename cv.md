@@ -1,5 +1,5 @@
 # Yangaliev Asaf Rustamovich
-![Изображение отсуствует](asafyangaliev.jpeg)
+![Изображение отсуствует](images/asafyangaliev.jpeg)
 ## **Контакты для связи:**
 **Phone number**: +998 (90) 178-72-80 \
 **Email**: asafyang1995@gmail.com \
